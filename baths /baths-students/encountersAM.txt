@@ -1,0 +1,10 @@
+Battle,Trafalgar,3,300
+Skirmish,BelleIsle,3,120
+Blockade,Brest,3,150
+Battle,StMalo,9,200
+Battle,Dieppe,7,90
+Skirmish,Jersey,8,45
+Blockade,Nantes,6,130
+Battle,Finisterre,4,100
+Skirmish,Biscay,5,200
+Battle,Cadiz,1,250
